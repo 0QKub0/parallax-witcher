@@ -1,6 +1,6 @@
 @font-face {
     font-family: "theWitcher";
-    src: url("/form/fonts/theWitcher.ttf");
+    src: url("./theWitcher.ttf");
 }
 *{
     margin: 0;
