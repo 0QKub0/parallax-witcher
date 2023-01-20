@@ -4,5 +4,5 @@ new Swiper('.slider',{
     mousewheel:true,
     spaceBetween:15,
     parallax:true,
-    freeMode:true
+    // freeMode:true
 })
